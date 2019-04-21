@@ -1,0 +1,41 @@
+Average PSNR: -0.28452	Average MSE: 291.4563	Average SSIM: 0.003546
+Average PSNR: 0.014133	Average MSE: 291.4563	Average SSIM: 0.003546
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 1.992877	Average MSE: 41095.34	Average SSIM: 0.500014
+Average PSNR: 11.75609	Average MSE: 4339.815	Average SSIM: 0.707960
+Average PSNR: 9.682004	Average MSE: 8154.290	Average SSIM: 0.640948
+Average PSNR: 9.682004	Average MSE: 8154.290	Average SSIM: 0.640948
+Average PSNR: 9.682004	Average MSE: 8154.290	Average SSIM: 0.640948
+Average PSNR: 5.263324	Average MSE: 22244.05	Average SSIM: 0.513707
+Average PSNR: 8.871218	Average MSE: 9552.479	Average SSIM: 0.703168
+Average PSNR: 21.01798	Average MSE: 591.3425	Average SSIM: 0.906022
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915
+Average PSNR: 21.12660	Average MSE: 566.6253	Average SSIM: 0.900121
+Average PSNR: 19.33736	Average MSE: 833.2610	Average SSIM: 0.876426
+Average PSNR: 21.25920	Average MSE: 486.5860	Average SSIM: 0.931747
+Average PSNR: 21.25920	Average MSE: 486.5860	Average SSIM: 0.931747
+Average PSNR: 21.25920	Average MSE: 486.5860	Average SSIM: 0.931747
+Average PSNR: 21.25920	Average MSE: 486.5860	Average SSIM: 0.931747
+Average PSNR: 18.66132	Average MSE: 885.0101	Average SSIM: 0.852312
+Average PSNR: 18.66132	Average MSE: 885.0101	Average SSIM: 0.852312
+Average PSNR: 21.93474	Average MSE: 416.4916	Average SSIM: 0.923416
+Average PSNR: 21.01798	Average MSE: 591.3425	Average SSIM: 0.906022
+Average PSNR: 21.48744	Average MSE: 530.4316	Average SSIM: 0.914139
+Average PSNR: 21.48744	Average MSE: 530.4316	Average SSIM: 0.914139
+Average PSNR: 20.61110	Average MSE: 660.6435	Average SSIM: 0.885178
+Average PSNR: 10.67368	Average MSE: 6316.297	Average SSIM: nan
+Average PSNR: 21.13337	Average MSE: 588.2397	Average SSIM: 0.890561
+Average PSNR: 19.52669	Average MSE: 801.9832	Average SSIM: 0.875518
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915	Average Improvement over bicubic: 1.212955
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915	Average Improvement over bicubic: 1.212955
+Average PSNR: 21.86047	Average MSE: 475.5829	Average SSIM: 0.921915	Average Improvement over bicubic: 1.212955

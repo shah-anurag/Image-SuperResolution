@@ -1,0 +1,10 @@
+Average GEN accuracy: 0.836612
+Average HRI accuracy: 0.875629
+Average LRI accuracy: 0.214506
+Average BIC accuracy: 0.689731
+
+RES>HRI: 22
+RES>BIC: 58
+RES>LRI: 44
+RESFAIL: 17
+==================================================
